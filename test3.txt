@@ -1,2 +1,2 @@
-cd "C:\Users\karso\OneDrive\Desktop\Youtube Git\githubksm1"
+This is test3.txt file
 
