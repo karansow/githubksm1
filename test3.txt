@@ -1,0 +1,2 @@
+cd "C:\Users\karso\OneDrive\Desktop\Youtube Git\githubksm1"
+
